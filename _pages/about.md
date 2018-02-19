@@ -12,7 +12,7 @@ redirect_from:
 
 Short Biography
 ======
-Lorem Ipsum
+GONZALO HERNÁNDEZ ALBALADEJO was born in 1981 in Alicante, Spain. He received his Master's Degree in Systems and Control Engineering from UND (Madrid, 2014), his Master's Degree in Industrial Engineering from UMH (Elche, 2006). Since 2008, he has been working as a technical and vocational education and training teacher in the field of thermo-fluid systems. He is currently studying the PhD in Systems Engineering and Control at the UNED, focusing his research on modeling and computer simulation of solar thermal systems.
 
 <!---A data-driven personal website
 ======
