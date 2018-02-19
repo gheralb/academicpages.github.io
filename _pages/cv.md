@@ -11,30 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Industrial Design, Universidad Politécnica de Valencia (EPSA-UPV), 2003
+* M.S. in Industrial Engineering, Universidad Miguel Hernández (UMH), 2006
+* M.S. in Systems and Control Engineering, Universidad Nacional de Eduación a Distancia (UNED), 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+<!---* Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Git--->
   
-Skills
+<!---Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3--->
 
 Publications
 ======
@@ -53,7 +48,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+<!---  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams--->
