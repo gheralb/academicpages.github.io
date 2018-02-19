@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal website of "
+title: "Personal website of Gonzalo Hernández Albaladejo"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
